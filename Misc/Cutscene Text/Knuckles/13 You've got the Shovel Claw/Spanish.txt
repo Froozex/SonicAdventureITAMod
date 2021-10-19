@@ -1,0 +1,2 @@
+Hai ottenuto la Shovel Claw. Ora, \npuoi scavare la terra e la roccia.
+Premi il tasto di salto e quello d'azione \ncontemporaneamente.

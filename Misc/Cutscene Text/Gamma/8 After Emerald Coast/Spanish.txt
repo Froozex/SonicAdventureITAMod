@@ -1,0 +1,4 @@
+Devo determinare il luogo.
+Accedendo ai dati.
+Nessun dato trovato. \nLuogo sconosciuto.
+Questo è un problema.

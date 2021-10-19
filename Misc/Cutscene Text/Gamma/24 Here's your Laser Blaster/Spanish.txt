@@ -1,0 +1,2 @@
+Ecco il tuo Laser Blaster.
+Il suo raggio danneggia nemici \na distanza maggiore.
